@@ -103,6 +103,15 @@ Endpoint	Method	Description
 /api/message/{chatId}	GET	Get messages
 /api/message/{id}	PUT	Update a message
 
+API testing:
+<img width="526" height="552" alt="image" src="https://github.com/user-attachments/assets/54997c97-d36b-4b2d-8a23-d88e96a79718" />
+<img width="529" height="556" alt="image" src="https://github.com/user-attachments/assets/f2477e92-a70e-485b-a241-0ab518285f28" />
+<img width="524" height="558" alt="image" src="https://github.com/user-attachments/assets/8ecee3a9-0495-446a-bbf9-9e4e4eb54b90" />
+<img width="528" height="553" alt="image" src="https://github.com/user-attachments/assets/d5764635-cb26-4a48-9059-2e5635543692" />
+<img width="515" height="554" alt="image" src="https://github.com/user-attachments/assets/d5e8427c-29e3-4652-a848-1da7ebe8ff58" />
+<img width="541" height="556" alt="image" src="https://github.com/user-attachments/assets/bce01e2b-ee64-49fb-8b35-ed965d38f7b0" />
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 CORS & Proxy Configuration
